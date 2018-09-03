@@ -1,0 +1,15 @@
+{
+  "name": "microtemplate",
+  "version": "0.0.0",
+  "description": "A templating engine done in a few lines of code",
+  "main": "microtemplate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "templates"
+  ],
+  "author": "Paul Marques Mota <pmarquesmota@gmail.com>",
+  "license": "MIT"
+}
