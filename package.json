@@ -16,7 +16,4 @@
   ],
   "author": "Paul Marques Mota <pmarquesmota@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "uglify-js": "^3.4.9"
-  }
 }
