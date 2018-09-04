@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "An eight line of code template engine",
   "main": "microtemplate.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmarquesmota/microtemplate.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
@@ -11,5 +15,8 @@
     "templates"
   ],
   "author": "Paul Marques Mota <pmarquesmota@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "uglify-js": "^3.4.9"
+  }
 }
