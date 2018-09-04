@@ -1,10 +1,10 @@
 {
   "name": "microtemplate",
   "version": "0.0.0",
-  "description": "A templating engine done in a few lines of code",
+  "description": "An eight line of code template engine",
   "main": "microtemplate.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [
     "template",
