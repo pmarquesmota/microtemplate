@@ -1,6 +1,8 @@
 function microtemplate(template, variables) {
-   for (i in Object.keys(variables)) {
-        eval(i + "=" + variables[i]);
+   for (let key in variables) {
+        eval(key + '="' + variables[key] + '"');
    }
    return eval("`" + template + "`");
 }
+
+module.exports = microtemplate;
