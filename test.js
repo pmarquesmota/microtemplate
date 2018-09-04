@@ -1,4 +1,4 @@
-var picotemplate = require('./picotemplate.js');
+var picotemplate = require('picotemplate');
 
 console.log(picotemplate('${foo} and ${toto}',{foo:"bar", toto:"titi"}));
 

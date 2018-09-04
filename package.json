@@ -1,6 +1,6 @@
 {
   "name": "picotemplate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An eight line of code template engine",
   "main": "picotemplate.js",
   "repository": {
@@ -15,5 +15,5 @@
     "templates"
   ],
   "author": "Paul Marques Mota <pmarquesmota@gmail.com>",
-  "license": "MIT",
+  "license": "MIT"
 }
