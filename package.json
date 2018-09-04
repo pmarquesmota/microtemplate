@@ -1,11 +1,11 @@
 {
-  "name": "microtemplate",
+  "name": "picotemplate",
   "version": "0.0.0",
   "description": "An eight line of code template engine",
-  "main": "microtemplate.js",
+  "main": "picotemplate.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pmarquesmota/microtemplate.git"
+    "url": "https://github.com/pmarquesmota/picotemplate.git"
   },
   "scripts": {
     "test": "node test.js"
